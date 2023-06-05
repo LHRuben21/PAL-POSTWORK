@@ -24,3 +24,32 @@ li{
     text-align: right;
     vertical-align: middle;
 }
+
+/* Parte que agregue del post-work: ⬇️ */
+
+.Pruebatxt{
+    font-family: 'Bungee Spice', cursive;
+    background-color: black;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 20px;
+    box-sizing: content-box .1rem;
+    padding: .1em;
+    margin: .1em;
+    border: .1em;
+    content: .1em;
+    width: 25em;
+}
+.Pruebatxt2{
+    font-family: 'Nabla', cursive;
+    background-color: black;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 20px;
+    box-sizing: content-box .1rem;
+    padding: .1em;
+    margin: .1em;
+    border: .1em;
+    content: .1em;
+    width: 17em;
+}
