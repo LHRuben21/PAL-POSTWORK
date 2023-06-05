@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Bedu</title>
+    <meta charset="UTF-8">
+    <style>
+        h1{
+        display: block;
+            color: rgba(2, 15, 255);
+        }
+        li{
+            display: inline;
+        }
+        nav{
+            display: inline-block;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <a href="/">
+            <img height="50" src="https://www.snakeriveranimalshelter.org/wp-content/uploads/example-logo.jpg" alt="">
+        </a>
+        <nav>
+            <ul>
+                <li>Blog</li>
+                <li>Cursos</li>
+                <li>Ayuda</li>
+            </ul>
+        </nav>
+        <div class="actions">
+            <button>Suscribete</button>
+        </div>
+    </header>
+
+    <h1>Bienvenido a la construcción de tu blog</h1>
+    
+    <p><strong>Construye</strong> tu blog en este apartado</p>
+    <img height="200" src="https://images.pexels.com/photos/16747506/pexels-photo-16747506/free-photo-of-car-on-street-of-tulum-mexico.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+    <form>
+        Nombre:
+        <input type="text">
+        E-mail:
+        <input type="email"/>
+        <input type="number"/>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+</body>
+
+</html>
